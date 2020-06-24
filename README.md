@@ -6,7 +6,7 @@
 
 [![Resume Preview](img/presentation-page.PNG)](https://llaet.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://llaet.github.io/)**
 
 ## Status
 
